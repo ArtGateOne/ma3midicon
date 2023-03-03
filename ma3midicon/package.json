@@ -1,0 +1,23 @@
+{
+  "name": "ma3midicon",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "ma3midicon.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ArtGateOne",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "^3.0.1",
+    "osc": "^2.4.3",
+    "websocket": "^1.0.34"
+  }
+}
